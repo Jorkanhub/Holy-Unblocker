@@ -97,6 +97,7 @@ let externalPages = {
   'truffled': 'https://truffled.lol',
   'freedomproject': 'https://nullatenus.com',
   'wispurr': 'https://github.com/sylvieisnton/wispurr',
+  'invisiproxy': 'https://invisiproxy.com/mirrors',
 };
 
 // Override the route names below when usingSEO is disabled in config.json.
@@ -125,6 +126,7 @@ let altPaths = {
   'truffled': 'educational',
   'freedomproject': 'frpu',
   'wispurr': 'wsp',
+  'invisiproxy': 'ivps',
   /* Raw File Names */
   files: {
     'sw.js': 'service.js',
