@@ -91,7 +91,6 @@ let externalPages = {
   codespaces: 'https://github.com/codespaces',
   'tor-project': 'https://tb-manual.torproject.org/installation',
   'titaniumnetwork-documentation': 'https://docs.titaniumnetwork.org',
-  'status': 'https://status.titaniumnetwork.org',
   'patreon': 'https://www.patreon.com/invisiproxy',
   'kofi': 'https://ko-fi.com/quiteafancyemerald',
   'titaniumnetwork-discord': 'https://discord.gg/CwWpdGkuWY',
