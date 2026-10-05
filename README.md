@@ -5,6 +5,8 @@
 # InvisiProxy LTS (Legacy v7.x.x)
 ## This repository and project has moved
 ## Please use https://github.com/InvisiProxy/InvisiProxyLTS instead !!!
+## Please use https://github.com/InvisiProxy/InvisiProxyLTS instead !!!
+## Please use https://github.com/InvisiProxy/InvisiProxyLTS instead !!!
 #### This is the last version of InvisiProxy to support Ultraviolet. Ultraviolet is now fully replaced by Scramjet as it has better site support and security measures.
 #### Formerly Holy Unblocker LTS
 
